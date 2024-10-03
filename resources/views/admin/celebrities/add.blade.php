@@ -25,7 +25,7 @@
                             <i class="bx bx-home-alt"></i>
                         </a>
                     </li>
-                    <li class="breadcrumb-item active" aria-current="page">Celebrities</li>
+                    <li class="breadcrumb-item active" aria-current="page">Celebrities celebrities</li>
                     <li class="breadcrumb-item active" aria-current="page">Add</li>
                 </ol>
             </nav>
